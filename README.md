@@ -3,7 +3,7 @@ Working through previous AoC calendars to practice skills in Python
 
 
 **Date** -   
-> *Reflections* - Quickly became busy with holidays and work but was able to get a couple more done!
+> *Reflections* - 
 > > 
 > > *Difficulties*
 > > >
