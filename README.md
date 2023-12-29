@@ -1,6 +1,19 @@
 # Advent_of_Code_2015
 Working through previous AoC calendars to practice skills in Python
 
+**12/29/2023** -  - Day 6 Total time  4 hours
+> *Reflections* - Understood conceptually. Didn't plan well
+> > Struggled with toggle function for about 3 hours. Scrapped it upon waking up and solved within 20 min.
+> > Experiencing a problem that I believe will show itself frequently; To continue down path to edit and fix versus restarting with a clean slate. To dive deeper or surface for new breath.
+> > > In general, I think learning to walk away for a code, either for a break or for good, will prove to be a handy skill.
+
+> > *Difficulties*
+> > > Had a cute thought to use "O" and "-" for off and on. Led to a lot of joining and splitting for Part 1 and then int/str in Part 2.
+> > > > This ended up breaking the code as the program wouldn't track digits consisting of more than 1 index.
+> > > > Switched to ints of 0 and 1 for off/on, which made rewriting Part 1 a breeze.
+> > > > > rows, col = (1000,1000)
+          x = [[0]*col)]*rows
+> > > > > was a clean way of creating orig array. However, when assigning new values throughout the prompt, each row/col would be changed rather than a specific index. (As if i was editing each col variable)
 
 **12/28/2023** -  - Day 4 and Day 5 : Total time  ~3 hours
 > *Reflections* - Day 4 was a lot of learning; first time really studying hashes and their relevancy, usage, and functions (specifically md5). Day 5 was more basics practice
