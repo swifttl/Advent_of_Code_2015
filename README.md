@@ -5,7 +5,7 @@ Working through previous AoC calendars to practice skills in Python
 > *Reflections* - Understood conceptually. Didn't plan well
 > > Struggled with toggle function for about 3 hours. Scrapped it upon waking up and solved within 20 min.
 > > Experiencing a problem that I believe will show itself frequently; To continue down path to edit and fix versus restarting with a clean slate. To dive deeper or surface for new breath.
-> > > In general, I think learning to walk away for a code, either for a break or for good, will prove to be a handy skill.
+> > > In general, I think learning to walk away from a code, either for a break or for good, will prove to be a handy skill.
 
 > > *Difficulties*
 > > > Had a cute thought to use "O" and "-" for off and on. Led to a lot of joining and splitting for Part 1 and then int/str in Part 2.
