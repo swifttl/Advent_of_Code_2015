@@ -1,6 +1,16 @@
 # Advent_of_Code_2015
 Working through previous AoC calendars to practice skills in Python
 
+**12/30/2023** -  - Day 7 Total time  2.5 hours writing | 3 hours reading and watching
+> *Reflections* - Lots of reading up on bits and bitwise functions
+> > Spent a lot of time messing with the builtins and learning how to use them
+> > Original code took long to run to played around with optimizing it for speed
+
+> > *Difficulties*
+> > > The builtin function for bitwise compliment , '~', returns a Twos Compliment, whereas per the prompt, we needed a mirror image
+> > > > Wasted a lot of time trying to manually work around this until I read into the mirror image; the solution then was quite simple
+> > > > Don't feel like I structured the loops well, however, the logic worked and ended up processing fast enough
+
 **12/29/2023** -  - Day 6 Total time  4 hours
 > *Reflections* - Understood conceptually. Didn't plan well
 > > Struggled with toggle function for about 3 hours. Scrapped it upon waking up and solved within 20 min.
