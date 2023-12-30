@@ -1,7 +1,15 @@
 # Advent_of_Code_2015
 Working through previous AoC calendars to practice skills in Python
 
-**12/30/2023** -  - Day 7 Total time  2.5 hours writing | 3 hours reading and watching
+**12/30/2023** -  - Day 8 Total time  2 hours
+> *Reflections* - Really wanted to practice regex, worked out but looks a little janky
+> > Part 2 was notably easier than part 1
+
+> > *Difficulties*
+> > > There were a lot of exceptions that I didn't think about until faced with them.
+> > > Will try and fully comprehend prompt and glance at input in the future
+
+**12/29/2023** -  - Day 7 Total time  2.5 hours writing | 3 hours reading and watching
 > *Reflections* - Lots of reading up on bits and bitwise functions
 > > Spent a lot of time messing with the builtins and learning how to use them
 > > Original code took long to run to played around with optimizing it for speed
